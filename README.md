@@ -94,4 +94,4 @@ By analyzing trends in [industry], our software can:
 - Align features with evolving customer needs
 
 ###### References
-(Chat GPT)[#https://chatgpt.com]
+(Chat GPT)[https://chatgpt.com]
