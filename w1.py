@@ -41,5 +41,5 @@ def calculator():
     
     print(f'{num1} {operation} {num2} = {calculationAnswer}')
 
-# Run the calculator
+
 calculator()
