@@ -2,13 +2,6 @@
 
 
 SELECT checkNumber, paymentDate,amount FROM payments;
-
-
-
-
-
-
-
 -- Write an SQL query to retrieve the orderDate, requiredDate, and status of orders that are currently 'In Process' from the orders table. Sort the results in descending order of orderDate
 SELECT orderDate, requiredDate FROM orders  WHERE status = 'InProcess';
 -- Write a query to display the firstName, lastName, and email of employees whose job title is 'Sales Rep' and order them in descending order of employeeNumber.
